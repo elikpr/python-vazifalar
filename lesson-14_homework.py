@@ -40,4 +40,4 @@ soz = input('Kalit soz kiriting:')
 if soz==None:
     print("Bunday so'z mavjud emas")
 else:    
-print(f"{soz} so'zi {tarjima} deb tarjima qilinadi")
+    print(f"{soz} so'zi {tarjima} deb tarjima qilinadi")
